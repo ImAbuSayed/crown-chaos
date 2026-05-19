@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/crown-chaos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Crown & Chaos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/crown-chaos/) |
+| **Get License** | [Request Licensing for Crown & Chaos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/crown-chaos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਕਾਲੇ ਅਸਮਾਨ ਹੇਠਾਂ ਲੱਭਦਾ ਹਾਂ ਤੇਰੀ ਛਾਂ my star
+> ਤੇਰੇ ਇਸ਼ਕ 'ਚ ਮੈਂ ਹੋਇਆ ਹਾਂ ਬੇਪਰਵਾਹ too far
+> ਸਾਰੀ ਦੁਨੀਆਂ ਨੂੰ ਛੱਡ ਕੇ ਮੈਂ ਆਇਆ ਹਾਂ alone
+> ਤੇਰੀ ਖਿੱਚ ਨੇ ਬਣਾਇਆ ਮੈਨੂੰ ਦੀਵਾਨਾ in the zone
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
