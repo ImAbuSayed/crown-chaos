@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Crown & Chaos
+
+This log tracks the cryptographic history and versioning for the song **Crown & Chaos** (crown-chaos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T16:57:27.334765 | `v1` | `f3b4d3fc7eb16dbb172613e7db0c8f4c6d1c2578a761d9d9b3670b8c829e6074` | `53786638374c74555e369fbab8ac10898059015840a4954608ebdf2d63cfb437` | `2026-05-19_crown-chaos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
